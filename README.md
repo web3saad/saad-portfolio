@@ -1,4 +1,4 @@
-echo "# Mahammad Sayad's Personal Portfolio  
+Mahammad Sayad's Personal Portfolio  
 
 This is my personal portfolio [sayad-portfolio.netlify.app](https://sayad-portfolio.netlify.app/), featuring my GitHub projects, resume, and technical skills.  
 
