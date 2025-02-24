@@ -2,11 +2,6 @@ echo "# Mahammad Sayad's Personal Portfolio
 
 This is my personal portfolio [sayad-portfolio.netlify.app](https://sayad-portfolio.netlify.app/), featuring my GitHub projects, resume, and technical skills.  
 
-## 🖼 Screenshots  
-
-![Screenshot 1](https://raw.githubusercontent.com/web3saad/saad-portfolio/main/images/screenshot1.jpeg)  
-![Screenshot 2](https://raw.githubusercontent.com/web3saad/saad-portfolio/main/images/screenshot2.jpeg)  
-![Screenshot 3](https://raw.githubusercontent.com/web3saad/saad-portfolio/main/images/screenshot3.jpeg)  
 
 ## 🚀 Built With  
 - React.js  
